@@ -1,7 +1,7 @@
 # 💫 Deep Learning Indaba Practicals 2025 💫
 
 Welcome to **Practicals 2025** — this year we’re taking things to the **next level** 🚀.  
-Instead of just a single “one-and-done” session, we’re going on a multi-part learning adventure **Learnathon** 📚🔥 together! 🌍✨
+Instead of just a single “one-and-done” session, we’re going on a multi-part learning adventure **Learnathon** 📚 together!
 
 
 ---
@@ -19,7 +19,7 @@ This year, we’re all about **depth, skills, and real progress** 📈:
 
 - 🌍 **Community meetups**: Exploring **physical locations** in some countries for the online sessions (**TBA**) 📍.  
 
-- 🌐 **English & French** for every practical 🗣.
+- 🌐 **English & French** for the onsite practicals 🗣.
 
 ---
 
@@ -76,7 +76,7 @@ This year, we’re all about **depth, skills, and real progress** 📈:
 # 💫 Les Travaux Pratiques de Deep Learning Indaba 2025 💫
 
 Bienvenue aux **Travaux Pratiques 2025** — cette année, nous passons à un **niveau supérieur** 🚀.  
-Au lieu d’une seule session unique, nous embarquons pour une aventure d’apprentissage en plusieurs parties **Learnathon** 📚🔥 ensemble ! 🌍✨
+Au lieu d’une seule session unique, nous embarquons pour une aventure d’apprentissage en plusieurs parties **Learnathon** 📚🔥 ensemble !
 
 
 ---
@@ -94,7 +94,7 @@ Cette année, nous visons **la profondeur, le développement des compétences et
 
 - 🌍 **Rencontres communautaires** : Exploration de **lieux physiques** dans certains pays pour les sessions en ligne (**à confirmer**) 📍.  
 
-- 🌐 **Anglais et Français** pour chaque TP 🗣.
+- 🌐 **Anglais et Français** pour les sur-place TPs 🗣.
 
 ---
 
