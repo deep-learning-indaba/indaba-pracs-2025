@@ -3,7 +3,7 @@
 Welcome to **Practicals 2025** — this year we’re taking things to the **next level** 🚀.  
 Instead of just a single “one-and-done” session, we’re going on a multi-part learning adventure **Learnathon** 📚 together!
 
-
+> ### 📌 To follow-up with the Learnathon timeline, please subscribe to this [calendar](https://calendar.google.com/calendar/u/2?cid=Y18zMjZkZTcyMTU5NzJjOWYxYWY3MDg1ZGRkMjJkMTZiZmQwOWM1N2UwOTdmZGM5ZmQ5YzBhYmFjOGQwMjFlNjQyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 ---
 
 ## 🔄 What’s new this year?  
@@ -78,6 +78,7 @@ This year, we’re all about **depth, skills, and real progress** 📈:
 Bienvenue aux **Travaux Pratiques 2025** — cette année, nous passons à un **niveau supérieur** 🚀.  
 Au lieu d’une seule session unique, nous embarquons pour une aventure d’apprentissage en plusieurs parties **Learnathon** 📚🔥 ensemble !
 
+> ### 📌 Pour rester informé(e) du Learnathon, abonnez-vous à ce [calendrier](https://calendar.google.com/calendar/u/2?cid=Y18zMjZkZTcyMTU5NzJjOWYxYWY3MDg1ZGRkMjJkMTZiZmQwOWM1N2UwOTdmZGM5ZmQ5YzBhYmFjOGQwMjFlNjQyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ---
 
